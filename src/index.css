@@ -265,3 +265,170 @@ body{
 .thanks-message{
   font-size: 20px;
 }
+
+@media only screen and (max-width: 1300px) {
+    .header{
+      height: 150px;
+    }
+
+    .header-logo{
+      width: 200px;
+    }
+
+    .header-title{
+      font-size: 30px;
+    }
+
+    .contact-info{
+      font-size: 14px;
+    }
+
+    .center-p{
+      font-size: 15px;
+    }
+
+    .center-h{
+      font-size: 30px;
+    }
+
+    .massage{
+      font-size: 14px;
+    }
+
+    .balance{
+      font-size: 14px;
+    }
+
+    .massage-style{
+      font-size: 18px;
+    }
+
+    .massage-type{
+      font-size: 15px;
+    }
+
+    .massage-info{
+      font-size: 14px;
+    }
+
+    .massage-list-header{
+      font-size: 18px;
+    }
+
+    .input-field{
+      width: 200px;
+    }
+    
+    .request-form{
+      grid-template-columns: 200px 150px 200px;
+      margin-left: 30px;
+    }
+
+    .prices{
+      font-size: 14px;
+    }
+
+    .priceHeader{
+      font-size: 18px;
+    }
+
+    .thanks-message{
+      font-size: 15px;
+    }
+
+    .checkboxes{
+      margin-left: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 865px){
+
+    .header{
+      height: 100px;
+    }
+
+    .header-logo{
+      width: 100px;
+    }
+
+    .header-title{
+      font-size: 15px;
+    }
+
+    .main-container{
+      grid-template-columns: 20% 80%;
+    }
+
+    .contact-info{
+      font-size: 10px;
+    }
+
+    .center-p{
+      font-size: 12px;
+    }
+
+    .center-h{
+      font-size: 15px;
+    }
+
+    .massage{
+      font-size: 10px;
+    }
+
+    .balance{
+      font-size: 11px;
+    }
+
+    .massage-style{
+      font-size: 15px;
+    }
+
+    .massage-type{
+      font-size: 12px;
+    }
+
+    .massage-info{
+      font-size: 12px;
+    }
+
+    .massage-list-header{
+      font-size: 14px;
+    }
+
+    .input-field{
+      width: 175px;
+      height: 25px;
+    }
+    
+    .contact{
+      display: grid;
+      grid-template-columns: 50% 50%;
+    }
+
+
+    .prices{
+      font-size: 11px;
+    }
+
+    .request-form{
+      display: flex;
+      flex-direction: column;
+    }
+
+    .priceHeader{
+      font-size: 14px;
+    }
+
+    .thanks-message{
+      font-size: 12px;
+    }
+
+    .checkboxes{
+      margin-left: 20px;
+    }
+
+    body{
+      background-position-x: center;
+    }
+}
