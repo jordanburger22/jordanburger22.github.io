@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import './index.css'
 import reikiImage from  "./assets/reiki-image.webp"
 import tarotImage from "./assets/tarot-image.webp"
 import massageImage from "./assets/massage-image.webp"
